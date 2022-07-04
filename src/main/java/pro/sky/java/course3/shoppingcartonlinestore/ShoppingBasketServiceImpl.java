@@ -1,9 +1,6 @@
 package pro.sky.java.course3.shoppingcartonlinestore;
-
 import org.springframework.stereotype.Service;
-
 import java.util.List;
-
 @Service
 public class ShoppingBasketServiceImpl implements ShoppingBasketService {
 
